@@ -14,6 +14,5 @@ Step 6 :count objects in the image  <br />
 => determin number button to count fingers <br />
 
 Matlap 2019 <br />
-packages  needed <br />
-
+packages  needed: <br />
 MATLAB Support Package for USB Webcams install it from addons --> get addons<br />
