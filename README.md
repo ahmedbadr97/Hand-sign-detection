@@ -12,3 +12,8 @@ Step 6 :count objects in the image  <br />
 => Segmentation Button to segment your hand from background if there is any object appears from background reuse enhancment button try to remove it or take another photo <br />
 => edge photo button is optional "not used in counting algorithm"  <br />
 => determin number button to count fingers <br />
+
+Matlap 2019 <br />
+packages  needed <br />
+
+MATLAB Support Package for USB Webcams install it from addons --> get addons<br />
